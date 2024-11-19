@@ -1,0 +1,8 @@
+name: Capitain
+version: '${project.version}'
+main: org.example.chest.capitain.Capitain
+api-version: 1.20
+commands:
+  glow:
+  night:
+  cheat:

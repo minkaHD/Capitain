@@ -1,0 +1,8 @@
+name: Capitain
+version: '1.0'
+main: org.example.chest.capitain.Capitain
+api-version: 1.20
+commands:
+  glow:
+  night:
+  cheat:
